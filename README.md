@@ -1,2 +1,14 @@
 # zhibo8-tvnow-pages
-HTML page archive and documentation
+
+公开页面文件归档
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
